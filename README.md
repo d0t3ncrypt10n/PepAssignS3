@@ -1,5 +1,5 @@
-##**Name** - Jayant Singh Rathour
-##**Reg no** - 12318747
+Name - Jayant Singh Rathour
+Reg no - 12318747
 
 ## Live Deployment
 - **S3 bucket link for deployed website:** http://d0t3ncrypt10n-static-website.s3-website.eu-north-1.amazonaws.com/

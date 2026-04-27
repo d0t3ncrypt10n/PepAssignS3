@@ -1,9 +1,15 @@
+##**Name** - Jayant Singh Rathour
+##**Reg no** - 12318747
+
+## Live Deployment
+- **S3 bucket link for deployed website:** http://d0t3ncrypt10n-static-website.s3-website.eu-north-1.amazonaws.com/
+
 # Savora Recipe Web App
 
 A stunning, fully static food recipe web application built with pure HTML, CSS, and Vanilla JS.
 
 ## Live Deployment
-- **Elastic IP for deployed website:** http://16.16.88.100:80
+- **S3 bucket link for deployed website:** http://d0t3ncrypt10n-static-website.s3-website.eu-north-1.amazonaws.com/
 
 ## Features
 - Full-viewport parallax hero section
